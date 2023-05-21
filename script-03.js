@@ -32,7 +32,7 @@ const rainbow = 'padding: 10px 5px; margin-bottom: 6px; border: 1px solid blue; 
 // модуль 4 урок 3
 console.log('%c Модуль 4 урок 3 ', rainbow);
 
-console.log('Первая задача:')
+console.warn('Первая задача:')
 const nameProduct = prompt("Наименование товара");
 const categoryProduct = prompt("Категория товара");
 const quantityProduct = +prompt("Количество товара");

@@ -1,6 +1,6 @@
 'use strict';
 
-console.log("Задание дополнительное - Вторая задача");
+console.warn("Задание дополнительное - Вторая задача");
 // const income = +prompt("Введите сумму Вашего дохода:");
 // const income = 40000;
 // const taxRate = 13;
